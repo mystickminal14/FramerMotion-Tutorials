@@ -1,0 +1,28 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+.conntainer{
+display:flex;
+flex-direction: column;
+gap:10em;
+}
+.box{
+  margin-top:10px;
+  width:250px;
+  margin-bottom:6em;
+  height:250px;
+  background:aquamarine;
+  display:flex;
+  gap:0.7em;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bo{
+  width:30px;
+  height:30px;
+  background:white;
+  padding:2em;
+}
